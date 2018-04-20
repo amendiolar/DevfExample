@@ -1,0 +1,5 @@
+
+var hola = "hola"
+function decirhola(){
+    console.log("muchas holas")
+}
